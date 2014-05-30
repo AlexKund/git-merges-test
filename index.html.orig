@@ -13,7 +13,11 @@
 		<h1 class="text-center">Hello World</h1>
 			<div>mergnah li</div>
 			<div> da razbira se v brancha </div>
+<<<<<<< HEAD
+				<a href="#">here is master</a>
+=======
 				here is master <p>master?</p>
+>>>>>>> 0c876bac65e6e64ecc5c5d984020f38c355f2f84
 			<div>mergnah li</div><div> da razbira se v brancha </div>
 		<!-- jQuery -->
 		<script src="//code.jquery.com/jquery.js"></script>
