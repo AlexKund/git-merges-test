@@ -12,18 +12,10 @@
 	<body>
 		<h1 class="text-center">Hello World</h1>
 <<<<<<< HEAD
-
-		<a href="#">local</a>
-		<a href="#">local</a>
-
-			<div>mergnah li</div>
-			<div> da razbira se v brancha </div>
-				here is master <p>master?</p>   
-			<div>mergnah li</div><div> da razbira se v brancha </div>
-
+               <h2>haaaaaaaaaaa</h2><aaaaaaaaaaaaaaaaa>
 =======
-               <h2>hmmmmmmm</h2>
->>>>>>> 4fb62237eaeb91490cfcbdf9353cd7be293a6052
+               <h2>haaaaawerweraaaaaa</h2>rwerwerwerwer
+>>>>>>> 7f4ea8c1432fc594910559e011b6146718a57ff9
 		<!-- jQuery -->
 		<script src="//code.jquery.com/jquery.js"></script> <a href="#">local</a>
 		<!-- Bootstrap JavaScript -->
